@@ -19,8 +19,6 @@ This is a laptop e-commerce application built with React, Tailwind CSS, and Reac
 - Axios
 - React Hot Toast
 
-## Getting Started
-
 ### Prerequisites
 
 - Node.js (v14 or higher)
