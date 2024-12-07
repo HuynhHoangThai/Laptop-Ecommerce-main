@@ -3,6 +3,7 @@
 
 ## Overview
 This project is a laptop-selling website built using the MERN stack. It provides a dynamic, user-friendly platform for customers to browse, filter, and purchase laptops online. Additionally, it offers an admin panel for efficient management of products, orders, and revenue statistics.
+![Tech Stack](HomePage.png)
 
 ## Technologies Used
 The project utilizes modern web development technologies to ensure scalability, performance, and maintainability:
